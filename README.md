@@ -15,6 +15,10 @@
       <p class="text-lg">Sr. Project Manager | AI & Digital Transformation</p>
       <p class="mt-2">📍 Magarpatta, Pune | ✉️ <a href="mailto:mac.src@gmail.com" class="underline">mac.src@gmail.com</a> | 
       🔗 <a href="http://www.linkedin.com/in/sshyam" class="underline">LinkedIn</a></p>
+      🔗 <a href="https://x.com/home" class="underline">X</a></p>
+      🔗 <a href="https://github.com/macsrc" class="underline">Github</a></p>
+      🔗 <a href="https://macsrc.github.io/mac-portfolio/" class="underline">Portfolio</a></p>
+      🔗 <a href="http://www.theyogee.com" class="underline">Website</a></p>
     </div>
   </header>
 
